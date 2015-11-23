@@ -39,3 +39,7 @@ Optional
 [ ] Categories should show a subset of the full list with a “See All” row to expand. Category list is here: www.yelp.com/developers/documentation/category_list (Links to an external site.)
 
 [ ] Implement the restaurant detail page.
+
+Walkthrough
+
+![Video Walkthrough](Yelp.gif)
